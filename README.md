@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Hi there, I'm Azhar Zulkifli 👋
 
@@ -11,7 +11,7 @@ I am a passionate developer with a strong focus on building scalable web and mob
 - 💬 Ask me about: **Flutter, Go, Python, and Odoo.**
 
 ---
-
+<div align="center">
 ### 🛠️ Tech Stack & Tools
 
 <br/>
