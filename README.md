@@ -10,8 +10,9 @@ I am a passionate developer with a strong focus on building scalable web and mob
 - 🛠️ Currently exploring advanced **Odoo** customizations and microservices.
 - 💬 Ask me about: **Flutter, Go, Python, and Odoo.**
 
----
 <div align="center">
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <br/>
