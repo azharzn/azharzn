@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there, I'm Azhar Zulkifli 👋
 
 ### 👨‍💻 Intermediate Software Developer
@@ -12,13 +14,18 @@ I am a passionate developer with a strong focus on building scalable web and mob
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,go,python,php,odoo,mysql,postgres,docker,postman,github" />
-  </a>
-</p>
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,react,go,python,php,mysql,postgres,docker,postman,github)](https://skillicons.dev)
+<img src="https://simpleicons.org/icons/odoo.svg" width="48" height="48" alt="odoo" />
+
+<br/>
+<br/>
 
 ---
 
 ### 📫 Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhar-zulkifli-b67069340/)
+
+</div>
